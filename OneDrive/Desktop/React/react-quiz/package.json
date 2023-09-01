@@ -2,7 +2,7 @@
   "name": "react-quiz",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/VitalySigaev/react-quiz.git",
+  "homepage": "https://vitalysigaev.github.io/react-quiz/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",

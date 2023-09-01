@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/VitalySigaev/react-quiz.git/static/css/main.645c60eb.css",
+    "main.js": "/VitalySigaev/react-quiz.git/static/js/main.f12df832.js",
+    "index.html": "/VitalySigaev/react-quiz.git/index.html",
+    "main.645c60eb.css.map": "/VitalySigaev/react-quiz.git/static/css/main.645c60eb.css.map",
+    "main.f12df832.js.map": "/VitalySigaev/react-quiz.git/static/js/main.f12df832.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.645c60eb.css",
+    "static/js/main.f12df832.js"
+  ]
+}
